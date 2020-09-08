@@ -3,7 +3,7 @@ package model;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-
+//HELLO CHECK
 public class Post {
 
 	private int id;
